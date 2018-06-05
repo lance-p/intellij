@@ -4,8 +4,8 @@
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="CamingoCode" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_FONT_NAME" value="Roboto Mono Medium for Powerline" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="0.8" />
   <colors>
@@ -102,7 +102,7 @@
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="762d1e" />
+        <option name="FOREGROUND" value="ad325b" />
       </value>
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
@@ -142,7 +142,7 @@
     </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="762d1e" />
+        <option name="FOREGROUND" value="b32937" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
