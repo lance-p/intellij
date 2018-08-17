@@ -1,0 +1,10 @@
+<application>
+  <component name="TaskStorage">
+    <tasks>
+      <task priority="Normal" completed="false" estimated="0" created="1534530254688" actual="0" highlighted="false" highlightingtype="Red" title="Pricing" description="">
+        <task priority="Normal" completed="false" estimated="0" created="1534530519694" actual="0" highlighted="false" highlightingtype="Red" title="Locations Grid - Add Infinite Scroll Paging " description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1534530262094" actual="0" highlighted="false" highlightingtype="Red" title="Fix Growing Observers List" description="Find out why pricegroup.service changeSetObs$.observers array keeps growing after you click each edit icon in changeset grid (goes to ss) and then go back to grid." />
+      </task>
+    </tasks>
+  </component>
+</application>
